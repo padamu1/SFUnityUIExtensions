@@ -1,0 +1,16 @@
+{
+  "name": "com.simulfactory.sfunityuiextensions",
+  "version": "1.0.0",
+  "displayName": "SFUnityUIExtensions",
+  "description": "Unity UI Extensions",
+  "unity": "2021.3",
+  "dependencies": {
+  },
+  "keywords": [
+  ],
+  "author": {
+    "name": "Mywatt",
+    "email": "padamu1@naver.com",
+    "url": "https://github.com/padamu1"
+  }
+}
