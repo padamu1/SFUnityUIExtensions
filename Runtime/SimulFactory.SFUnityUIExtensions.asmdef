@@ -1,6 +1,6 @@
 {
     "name": "SimulFactory.SFUnityUIExtensions",
-    "rootNamespace": "",
+    "rootNamespace": "SimulFactory.SFUnityUIExtensions",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
